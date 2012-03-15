@@ -1,0 +1,7 @@
+This is a refactored version of the game of life.
+
+* Canvas is used instead of HTML
+* New inheritance system
+* Removed Selchi dependence
+* Restructured the class architecture, now it's more extensible.
+

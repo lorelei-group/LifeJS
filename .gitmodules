@@ -1,0 +1,6 @@
+[submodule "deps/Selchi"]
+	path = deps/Selchi
+	url = git@github.com:amatiasq/Selchi.git
+[submodule "deps/Sassmine"]
+	path = deps/Sassmine
+	url = git@github.com:amatiasq/Sassmine.git
